@@ -1,0 +1,11 @@
+.background-image {
+  background: url('../src/Assets/BG.png') center/cover no-repeat;
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: -1;
+}
+
+
